@@ -1,0 +1,217 @@
+Data Dictionary 
+This code book summarizes the resulting data fields in tidy.txt.
+
+volunteerid
+	This is the ID of each volunteer. There are 30 volunteers
+
+activityid
+	This is the activity performed by each volunteer. List of activities.
+	WALKING
+
+	WALKING_UPSTAIRS
+	WALKING_DOWNSTAIRS
+	SITTING
+	STANDING
+
+	LAYING
+
+tbodyaccmeanx
+	 This is the mean of body accelerometer in x direction
+	 The value is in the range of -1 and 1 
+tbodyaccmeany
+	 This is the mean of body accelerometer in y direction
+	 The value is in the range of -1 and 1 
+tbodyaccmeanz
+	 This is the mean of body accelerometer in z direction
+	 The value is in the range of -1 and 1 
+tbodyaccstdx
+	 This is the standard deviation of body accelerometer in x direction
+	 The value is in the range of -1 and 1 
+tbodyaccstdy
+	 This is the standard deviation of body accelerometer in y direction
+	 The value is in the range of -1 and 1 
+tbodyaccstdz
+	 This is the standard deviation of body accelerometer in z direction
+	 The value is in the range of -1 and 1 
+tgravityaccmeanx
+	 This is the mean of gravity accelerometer in x direction
+	 The value is in the range of -1 and 1 
+tgravityaccmeany
+	 This is the mean of gravity accelerometer in y direction
+	 The value is in the range of -1 and 1 
+tgravityaccmeanz
+	 This is the mean of gravity accelerometer in z direction
+	 The value is in the range of -1 and 1 
+tgravityaccstdx
+	 This is the standard deviation of gravity accelerometer in x direction
+	 The value is in the range of -1 and 1 
+tgravityaccstdy
+	 This is the standard deviation of gravity accelerometer in y direction
+	 The value is in the range of -1 and 1 
+tgravityaccstdz
+	 This is the standard deviation of gravity accelerometer in z direction
+	 The value is in the range of -1 and 1 
+tbodyaccjerkmeanx
+	 This is the mean of jerk body accelerometer in x direction
+	 The value is in the range of -1 and 1 
+tbodyaccjerkmeany
+	 This is the mean of jerk body accelerometer in y direction
+	 The value is in the range of -1 and 1 
+tbodyaccjerkmeanz
+	 This is the mean of jerk body accelerometer in z direction
+	 The value is in the range of -1 and 1 
+tbodyaccjerkstdx
+	 This is the standard deviation of jerk body accelerometer in x direction
+	 The value is in the range of -1 and 1 
+tbodyaccjerkstdy
+	 This is the standard deviation of jerk body accelerometer in y direction
+	 The value is in the range of -1 and 1 
+tbodyaccjerkstdz
+	 This is the standard deviation of jerk body accelerometer in z direction
+	 The value is in the range of -1 and 1 
+tbodygyromeanx
+	 This is the mean of body gyroscope in x direction
+	 The value is in the range of -1 and 1 
+tbodygyromeany
+	 This is the mean of body gyroscope in y direction
+	 The value is in the range of -1 and 1 
+tbodygyromeanz
+	 This is the mean of body gyroscope in z direction
+	 The value is in the range of -1 and 1 
+tbodygyrostdx
+	 This is the standard deviation of body gyroscope in x direction
+	 The value is in the range of -1 and 1 
+tbodygyrostdy
+	 This is the standard deviation of body gyroscope in y direction
+	 The value is in the range of -1 and 1 
+tbodygyrostdz
+	 This is the standard deviation of body gyroscope in z direction
+	 The value is in the range of -1 and 1 
+tbodygyrojerkmeanx
+	 This is the mean of jerk body gyroscope in x direction
+	 The value is in the range of -1 and 1 
+tbodygyrojerkmeany
+	 This is the mean of jerk body gyroscope in y direction
+	 The value is in the range of -1 and 1 
+tbodygyrojerkmeanz
+	 This is the mean of jerk body gyroscope in z direction
+	 The value is in the range of -1 and 1 
+tbodygyrojerkstdx
+	 This is the standard deviation of jerk body gyroscope in x direction
+	 The value is in the range of -1 and 1 
+tbodygyrojerkstdy
+	 This is the standard deviation of jerk body gyroscope in y direction
+	 The value is in the range of -1 and 1 
+tbodygyrojerkstdz
+	 This is the standard deviation of jerk body gyroscope in z direction
+	 The value is in the range of -1 and 1 
+tbodyaccmagmean
+	 This is the mean of magnitude of body accelerometer
+	 The value is in the range of -1 and 1 
+tbodyaccmagstd
+	 This is the standard deviation of magnitude of body accelerometer
+	 The value is in the range of -1 and 1 
+tgravityaccmagmean
+	 This is the mean of magnitude of gravity accelerometer
+	 The value is in the range of -1 and 1 
+tgravityaccmagstd
+	 This is the standard deviation of magnitude of gravity accelerometer
+	 The value is in the range of -1 and 1 
+tbodyaccjerkmagmean
+	 This is the mean of magnitude of jerk body accelerometer 
+	 The value is in the range of -1 and 1 
+tbodyaccjerkmagstd
+	 This is the standard deviation of magnitude of jerk body accelerometer 
+	 The value is in the range of -1 and 1 
+tbodygyromagmean
+	 This is the mean of magnitude of body gyroscope
+	 The value is in the range of -1 and 1 
+tbodygyromagstd
+	 This is the standard deviation of magnitude of body gyroscope
+	 The value is in the range of -1 and 1 
+tbodygyrojerkmagmean
+	 This is the mean of magnitude of jerk body gyroscope
+	 The value is in the range of -1 and 1 
+tbodygyrojerkmagstd
+	 This is the standard deviation of magnitude of jerk body gyroscope
+	 The value is in the range of -1 and 1 
+fbodyaccmeanx
+	 This is the mean of body accelerometer in x direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccmeany
+	 This is the mean of body accelerometer in y direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccmeanz
+	 This is the mean of body accelerometer in z direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccstdx
+	 This is the standard deviation of body accelerometer in x direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccstdy
+	 This is the standard deviation of body accelerometer in y direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccstdz
+	 This is the standard deviation of body accelerometer in z direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccjerkmeanx
+	 This is the mean of jerk body accelerometer in x direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccjerkmeany
+	 This is the mean of jerk body accelerometer in y direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccjerkmeanz
+	 This is the mean of jerk body accelerometer in z direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccjerkstdx
+	 This is the standard deviation of jerk body accelerometer in x direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccjerkstdy
+	 This is the standard deviation of jerk body accelerometer in y direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccjerkstdz
+	 This is the standard deviation of jerk body accelerometer in z direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyromeanx
+	 This is the mean of body gyrocope in x direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyromeany
+	 This is the mean of body gyrocope in y direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyromeanz
+	 This is the mean of body gyrocope in z direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyrostdx
+	 This is the standard deviation of body gyrocope in x direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyrostdy
+	 This is the standard deviation of body gyrocope in y direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyrostdz
+	 This is the standard deviation of body gyrocope in z direction when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccmagmean
+	 This is the mean of magnitude of body accelerometer when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccmagstd
+	 This is the standard deviation of magnitude of body accelerometer when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccjerkmagmean
+	 This is the mean of magnitude of jerk body accelerometer when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodyaccjerkmagstd
+	 This is the standard deviation of magnitude of jerk body accelerometer when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyromagmean
+	 This is the mean of magnitude of body gyrocope when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyromagstd
+	 This is the standard deviation of magnitude of body gyrocope when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyrojerkmagmean
+	 This is the mean of magnitude of jerk body gyroscope when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+fbodygyrojerkmagstd
+	 This is the standard deviation of magnitude of jerk body gyroscope when Fast Fourier Transform is applied
+	 The value is in the range of -1 and 1 
+
+
